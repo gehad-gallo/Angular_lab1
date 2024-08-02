@@ -1,0 +1,36 @@
+.container-fluid{
+
+	padding: 8%;
+	background-color: #9e4735;
+}
+
+h1{
+	margin-bottom: 50px;
+	color: white;
+	text-align: center;
+	font-size: 45px;
+	font-family: sans-serif;
+
+}
+
+.skills_dev {
+	margin-bottom: 5%;
+	color: #f2d7d5 ;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+
+.skills_dev {
+	margin-bottom: 5%;
+	color: #f2d7d5 ;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+
+
+.skill_title{
+	 text-align: right;
+	 margin-right: 3%;
+}

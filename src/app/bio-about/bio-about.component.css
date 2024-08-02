@@ -1,0 +1,22 @@
+.container-fluid{
+	margin-top: 8%;
+	margin-bottom: 10%;
+	font-family: sans-serif;
+	font-size: 25px;
+	color: #808b96 ;
+
+}
+
+h2{
+	font-family: sans-serif;
+	font-size: 40px;
+	margin-top: 20%;
+	margin-left: 40%;
+	color: black;
+	
+}
+
+.about_text{
+	padding: 100px;
+
+}
